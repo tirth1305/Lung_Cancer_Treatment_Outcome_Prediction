@@ -132,7 +132,7 @@ Final evaluation was performed on an independent **20% test dataset**.
 
 # Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](imgs/confusion_matrix.png)
 
 Key observations:
 
@@ -148,7 +148,7 @@ Partial Response remains difficult due to limited samples.
 
 To interpret model predictions, **SHAP (SHapley Additive Explanations)** was used.
 
-![SHAP Summary](images/shap_summary.png)
+![SHAP Summary](imgs/Shap.png)
 
 Most influential predictors:
 
@@ -202,9 +202,7 @@ Lung_Cancer_Treatment_Outcome_Prediction
 ├── images
 │   ├── confusion_matrix.png
 │   └── shap_summary.png
-│
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
@@ -241,11 +239,12 @@ Potential improvements include:
 **Tirth Patel**
 Bioinformatics Student – Marwadi University
 
-GitHub: https://github.com/tirth1305
-LinkedIn: https://linkedin.com/in/tirthpatel1305
+* GitHub: https://github.com/tirth1305
+* LinkedIn: https://linkedin.com/in/tirthpatel1305
 
 ---
 
 # License
 
 This project is intended for **academic and research purposes**.
+
